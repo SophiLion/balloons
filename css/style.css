@@ -359,6 +359,7 @@ label {
 textarea {
     width: 80%;
     margin: auto;
+    padding: 5px 20px 5px 20px;
     border: 3px solid #ff0066;
     border-radius: 25px;
     border-width: 5px;
